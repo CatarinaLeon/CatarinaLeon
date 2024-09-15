@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Kateryna :smiley_cat:
+# 👋 Hi there, I'm Kateryna :smiley_cat:
 
 ## About Me:
  
