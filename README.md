@@ -2,7 +2,7 @@
 
 ## About Me:
  
- I am a Front-End Developer from Ukraine
+ I am a Front-End Developer from Ukraine ![Ukraine](https://github.com/CatarinaLeon/project-react-Wristwatches/blob/master/src/images/Ukraine.png)
  
 - I’m interested in Front-end development.
 - I’m currently learning HTML, CSS, Java Script, React.
