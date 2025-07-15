@@ -31,7 +31,7 @@ I’m fascinated by how code can make the world more efficient — or at least s
 ### 📫 Let's Connect!
 
 <a href="mailto:kateryna.vasylieva.net@gmail.com"><img src="https://img.shields.io/badge/email-contact-ff5349?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/vasylieva-kateryna/)" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/vasylieva-kateryna/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <!-- Add more links as needed -->
 
 ---
